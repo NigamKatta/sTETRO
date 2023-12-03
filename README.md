@@ -1,6 +1,6 @@
 # sTetro: Revolutionizing Staircase-Cleaning Robotics
 
-Overview
+## Overview
 The sTetro stands as a pioneering solution, delivering a new era of cleaning automation. Designed with a vertical conveyor belt mechanism, this cutting-edge robot transcends conventional cleaning capabilities by effortlessly navigating across flat surfaces and ascending staircases. Inspired by the Tetris Tiling Theory, the sTetro's innovative concept reshapes traditional cleaning robotics. Its structural foundation comprises three interconnected cuboids, each linked by two sliders affixed to the central cuboid. This intelligent robot dynamically reconfigures itself upon encountering a staircase, showcasing unparalleled motion mechanisms tailored for efficient staircase cleaning.
 
 ## Contribution to this Project:
